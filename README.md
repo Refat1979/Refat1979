@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @Refat1979
+- 👋 Hi, I’m Rafa
 - 👀 I’m interested in data 
 - 🌱 I’m currently learning data analyze
 - 💞️ I’m looking to collaborate on R,SQL, Python3
 - 📫 How to reach me email: rafamei1979@gmail.com
-- 😄 Pronouns: Refat
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like chocklate and chips
 
 <!---
